@@ -1,0 +1,30 @@
+* {
+    background-color: brown;
+    color: gold;
+    margin: 10px 50px 10px ;
+    padding: center;
+}
+.navbar
+{
+    text-align: center;
+    padding: center;
+}
+h1 {
+    text-align: center;
+}
+.picmiddle img 
+{
+height: 800px;
+width: auto;
+text-align: center;
+padding: center;
+}
+
+p {
+    text-align: center;
+    padding: center;
+}
+footer {
+    text-align: center;
+    padding: center;
+}
