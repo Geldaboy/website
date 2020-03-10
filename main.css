@@ -16,8 +16,11 @@ h1 {
 {
 height: 800px;
 width: auto;
-text-align: center;
-padding: center;
+}
+.picmiddle
+{
+    text-align: center;
+    padding: center;
 }
 
 p {
