@@ -16,12 +16,31 @@ h1 {
 {
 height: 800px;
 width: auto;
+padding: center;
 }
 .picmiddle
 {
     text-align: center;
     padding: center;
 }
+
+#cnlogo{
+height: auto;
+width: auto;
+text-align: center;
+padding: center;
+}
+#acevideo{
+    text-align: center;
+    padding: center;
+}
+
+#recruitteam{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: center;
+    }
 
 p {
     text-align: center;
