@@ -1,8 +1,7 @@
 * {
     color: gold;
-    margin: 10px 50px 10px ;
+    margin: 0px 50px 0px ;
     padding: center;
-    font-family: fantasy;
 }
 
 .backgroundcolour{
@@ -26,7 +25,6 @@ h1, h2, h3, p
     text-align: center;
     padding: center;
     border: 1px solid black;
-    border-collapse: collapse;
     border-width: 2px;
     padding: 10px;
 }
@@ -56,7 +54,7 @@ h1, h2, h3, p
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-h1 {
+h1, .worklink, .assignment, #unit1 #unit2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     margin: auto;
