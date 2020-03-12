@@ -2,16 +2,33 @@
     color: gold;
     margin: 10px 50px 10px ;
     padding: center;
+    font-family: fantasy;
 }
 
 .backgroundcolour{
-    background-color: brown;
+    background-color: whitesmoke;
 }
 .opacity1
 {
     background-color: rgba(0, 0, 0, 0.7);
     width: fit-content;
 
+}
+footer
+{
+    background-color: black;
+    padding: center;
+    font-size: 25px;    
+}
+h1, h2, h3, p
+{
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-width: 2px;
+    padding: 10px;
 }
 #cardstable table, th, td
 {
@@ -26,13 +43,18 @@
 
 .navbar
 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
     text-align: center;
     padding: center;
     margin: auto;
     background-color: rgba(0, 0, 0, 0.7);
     width: fit-content;
+}
+
+.navfont {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
