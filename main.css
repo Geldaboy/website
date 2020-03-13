@@ -13,7 +13,7 @@ h1,h2,h3
 }
 
 .backgroundcolour{
-    background-color: whitesmoke;
+    background-color: rgb(12, 12, 116);
 }
 .opacity1
 {
@@ -23,11 +23,10 @@ h1,h2,h3
 }
 footer
 {
-    background-color: black;
+    background-color: gold;
     padding: center;
     font-size: 25px;    
 }
-
 h1
 {
 font-size: 50px;
@@ -50,11 +49,13 @@ p
 #unit1link, #unit2link
 {
     color: gold;
+    font-size: 30px;
 }
 #unit1
 {
     border: 10px solid black;
     border-width: 10px;
+    border-radius: 10px;
     }
 
 
@@ -63,6 +64,7 @@ p
 {
     border: 10px solid black;
     border-width: 10px;
+    border-radius: 10px;
 }
 
 h1, h2, h3
@@ -87,8 +89,12 @@ h1, h2, h3, p
     border-collapse: collapse;
     border-width: 2px;
     padding: 10px;
+    color: gold
 }
 
+a{
+    color: cornflowerblue;
+}
 .navbar
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -125,9 +131,11 @@ padding: center;
 
 #cnlogo{
 height: auto;
-width: auto;
+width: fit-content;
 text-align: center;
 padding: center;
+background-color: powderblue;
+margin: auto;
 }
 #acevideo{
     text-align: center;
@@ -146,6 +154,7 @@ p {
     padding: center;
 }
 footer {
+    background-color: saddlebrown;
     text-align: center;
     padding: center;
 }
