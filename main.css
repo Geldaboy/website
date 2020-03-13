@@ -120,14 +120,19 @@ h1, .worklink, .assignment, #unit1 #unit2 {
 .picmiddle img 
 {
 height: 800px;
-width: auto;
-padding: center;
+flex: 1;
 }
 .picmiddle
 {
     text-align: center;
     padding: center;
-}
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+
+
 
 #cnlogo{
 height: auto;
