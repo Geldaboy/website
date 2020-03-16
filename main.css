@@ -97,7 +97,6 @@ a{
 }
 .navbar
 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
     text-align: center;
     padding: center;
@@ -108,7 +107,7 @@ a{
 
 .navfont {
 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1, .worklink, .assignment, #unit1 #unit2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -119,7 +118,8 @@ h1, .worklink, .assignment, #unit1 #unit2 {
 }
 .picmiddle img 
 {
-height: 800px;
+height: 2000px;
+width: auto;
 flex: 1;
 }
 .picmiddle
@@ -130,7 +130,10 @@ flex: 1;
     display: flex;
     flex-wrap: wrap;
     }
-
+.picportrait img
+{
+    image-rendering: from-image;
+}
 
 
 
